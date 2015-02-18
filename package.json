@@ -1,6 +1,6 @@
 {
-  "name": "fp-maybe",
-  "version": "1.0.1",
+  "name": "fj-maybe",
+  "version": "0.0.0",
   "description": "mayBe monad.",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fp-js/fp-maybe.git"
+    "url": "https://github.com/fj-js/fj-maybe.git"
   },
   "keywords": [
     "fp-js",
-    "fp",
+    "fj",
     "maybe",
     "monad"
   ],
@@ -22,9 +22,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fp-js/fp-maybe/issues"
+    "url": "https://github.com/fj-js/fj-maybe/issues"
   },
-  "homepage": "https://github.com/fp-js/fp-maybe",
+  "homepage": "https://github.com/fj-js/fj-maybe",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-6to5": "^3.0.0",
